@@ -4,6 +4,10 @@
 
 I build practical web products and experimental blockchain prototypes around monitoring, data-rich interfaces, tokenized asset workflows, and AI-assisted product exploration.
 
+My products are the public outputs of **StrainOS**, my product-creation ecosystem.
+
+▸ **Start here — the full picture:** [StrainOS portfolio](https://strainus.github.io/portfolio-strainus/)
+
 My current work is focused on:
 
 - shipping usable frontend experiences with clear product boundaries;
@@ -19,8 +23,6 @@ My current work is focused on:
 | --- | --- | --- | --- |
 | [DashboardRayls](https://github.com/StrainUS/DashboardRayls) | Public, unofficial Rayls network and market monitoring dashboard | React, Vite, TypeScript, Vitest, GitHub Pages | CI, tests, feed validation, production build, npm audit, CodeQL, Pages deploy |
 | [Carte-monde-muslim-2026](https://github.com/StrainUS/Carte-monde-muslim-2026) | Static geospatial risk-awareness and educational interface for security context | SvelteKit, Leaflet, Zod, Vitest, Playwright | Svelte check, lint, format check, unit tests, E2E tests, static Pages deployment |
-| [rayls-marketplace-hackathon](https://github.com/StrainUS/rayls-marketplace-hackathon) | Hackathon frontend prototype for Rayls/RWA marketplace flows | React, TypeScript, Testing Library | CI, unit tests, production build, security notes |
-| [FactureNFTQuantum](https://github.com/StrainUS/FactureNFTQuantum) | Invoice-backed NFT proof of concept with commitment verification | Solidity, Foundry, OpenZeppelin | Foundry build/test CI, documented scope and security limits |
 
 Live demos:
 
