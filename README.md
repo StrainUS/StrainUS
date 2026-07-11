@@ -21,6 +21,7 @@ My current work is focused on:
 
 | Project | What it demonstrates | Stack | Quality signals |
 | --- | --- | --- | --- |
+| [rayls-rwa-marketplace](https://github.com/StrainUS/rayls-rwa-marketplace) | Public, security-oriented reference implementation for privacy-preserving RWA tokenization and ERC-1155 marketplace flows | Solidity, Hardhat, OpenZeppelin, ERC-1155 | CI, contract tests, threat-model documentation, explicit audit status, public/private boundary |
 | [DashboardRayls](https://github.com/StrainUS/DashboardRayls) | Public, unofficial Rayls network and market monitoring dashboard | React, Vite, TypeScript, Vitest, GitHub Pages | CI, tests, feed validation, production build, npm audit, CodeQL, Pages deploy |
 | [Carte-monde-muslim-2026](https://github.com/StrainUS/Carte-monde-muslim-2026) | Static geospatial risk-awareness and educational interface for security context | SvelteKit, Leaflet, Zod, Vitest, Playwright | Svelte check, lint, format check, unit tests, E2E tests, static Pages deployment |
 
@@ -49,7 +50,7 @@ For blockchain work, my public repositories should be read as prototypes, learni
 
 **Frontend:** React, Vite, SvelteKit, TypeScript, CSS, accessibility-minded UI work  
 **Testing and quality:** Vitest, Playwright, Testing Library, ESLint, Prettier, GitHub Actions  
-**Blockchain:** Solidity, Foundry, OpenZeppelin, ERC-20/ERC-721 patterns, Rayls testnet exploration  
+**Blockchain:** Solidity, Hardhat, Foundry, OpenZeppelin, ERC-20/ERC-721/ERC-1155 patterns, Rayls testnet exploration  
 **Data and product:** dashboards, map interfaces, public API aggregation, static deployment, operational monitoring  
 **Security habits:** `.env` hygiene, no private keys in repos, dependency audits, scoped security documentation
 
